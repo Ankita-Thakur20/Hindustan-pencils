@@ -252,7 +252,9 @@ justify-content:space-between;
     font-size:1.1em;
 }
 .textbox img{
+    width:200px;
     margin-right:180px;
+    margin-top:20px;
     /* border:1px solid black; */
 }
 .textbox button{
@@ -403,7 +405,7 @@ justify-content:space-between;
     height:50%;
    }
     .secondbox{
-        height:500px;
+        height:572px;
         width:100%;
         background-color:red;
         background-image:none;
@@ -457,7 +459,7 @@ justify-content:space-between;
         width:100%;
     }
     .fourthbox{
-        height:600px;
+        height:686px;
         width:100%;
         background-color:red;
         background-image:none;
