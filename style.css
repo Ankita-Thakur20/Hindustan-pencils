@@ -247,6 +247,12 @@ justify-content:space-between;
     align-items:flex-start;
     justify-content:center;
 }
+ .thirdbox .textbox{
+    /* border:1px solid red; */
+    padding-inline-end:150px;
+ }
+   
+
 .textbox p{
     color:white;
     font-size:1.1em;
@@ -286,7 +292,7 @@ justify-content:space-between;
 }
 .imgbox2 img{
     width:600px;
-    margin-right:250px;
+    margin-right:180px;
     border:20px solid #EBECF0;
 }
 .fourthbox{
@@ -712,6 +718,13 @@ justify-content:space-between;
     .textbox br{
         display:none;
     }
+    .thirdbox .textbox img{
+        width:200px;
+        /* border:1px solid red; */
+    }
+    .thirdbox {
+        height:795px;
+    }
     .imgbox2{
         width:100%;
         margin:0;
@@ -733,10 +746,12 @@ justify-content:space-between;
     }
     .textbox3 img{
         width:250px;
+        /* border:1px solid black; */
     }
     .imgbox3{
         padding:40px;
     }
+   
     .imgbox3 img{
         margin:0px;
         width:100%;
